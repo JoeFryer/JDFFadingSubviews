@@ -1,26 +1,19 @@
 # JDFFadingSubviews
 
-[![CI Status](http://img.shields.io/travis/Joe Fryer/JDFFadingSubviews.svg?style=flat)](https://travis-ci.org/Joe Fryer/JDFFadingSubviews)
-[![Version](https://img.shields.io/cocoapods/v/JDFFadingSubviews.svg?style=flat)](http://cocoadocs.org/docsets/JDFFadingSubviews)
-[![License](https://img.shields.io/cocoapods/l/JDFFadingSubviews.svg?style=flat)](http://cocoadocs.org/docsets/JDFFadingSubviews)
-[![Platform](https://img.shields.io/cocoapods/p/JDFFadingSubviews.svg?style=flat)](http://cocoadocs.org/docsets/JDFFadingSubviews)
-
+JDFFadingSubviews is a simple `UIView` category, with method's for fading (or setting any `alpha`) for all of a view's subviews.
 ## Usage
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
-## Requirements
-
 ## Installation
 
-JDFFadingSubviews is available through [CocoaPods](http://cocoapods.org). To install
-it, simply add the following line to your Podfile:
-
-    pod "JDFFadingSubviews"
+Copy the contents of `Pod/Classes/` to your project.
 
 ## Author
 
 Joe Fryer, joe.d.fryer@gmail.com
+
+[@JoeFryer88 on Twitter](https://twitter.com/joefryer88)
 
 ## License
 
